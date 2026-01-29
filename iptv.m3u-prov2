@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, RTSH 1 HD
+https://rtsh.telenet.al/live/rtsh1/playlist.m3u8
+
+#EXTINF:-1, RTSH 2 HD
+https://rtsh.telenet.al/live/rtsh2/playlist.m3u8
+
+#EXTINF:-1, RTSH Sport
+https://rtsh.telenet.al/live/rtsh_sport/playlist.m3u8
